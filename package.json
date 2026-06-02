@@ -1,0 +1,12 @@
+{
+  "name": "agent-annotator",
+  "version": "1.0.0",
+  "description": "Installer for Agent Annotator Next.js integration",
+  "bin": {
+    "agent-annotator-init": "./install-agent-annotator.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hungmaix94/agent-annotation-public.git"
+  }
+}

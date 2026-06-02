@@ -1,0 +1,28 @@
+{
+  "name": "agent-annotator",
+  "version": "1.0.1",
+  "description": "Next.js & Vite integration for Agent Annotator Chrome Extension",
+  "main": "index.js",
+  "bin": {
+    "agent-annotator": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "nextjs",
+    "vite",
+    "agent",
+    "annotator"
+  ],
+  "author": "Hungmaix94",
+  "license": "MIT",
+  "peerDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-typescript": "^7.0.0"
+  },
+  "dependencies": {
+    "@babel/core": "^7.0.0"
+  }
+}
